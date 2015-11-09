@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "_default": {
+      "link": "dinggotest"
+    },
+    "dinggotest": {
+      "parseAppId": "HmCbOSWsUXaXANDvFviaHF0fkRxNqRYAx7U9m4dQ",
+      "herokuAppId": "73b5b110-d896-4aa9-a1d9-19c9d3d97d40"
+    }
+  }
+}
